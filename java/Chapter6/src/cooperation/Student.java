@@ -25,8 +25,8 @@ public class Student {
 		System.out.println(studentName + "´ÔÀÇ ³²Àº µ·Àº " + money + "¿ø ÀÔ´Ï´Ù.");
 	}
 	
-//	public void takeTrans(Trans trans) {
-//		
-//	}
+	public void takeTrans(TakeTrans trans) {
+		System.out.println();
+	}
 	
 }
